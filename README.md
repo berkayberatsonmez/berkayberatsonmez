@@ -24,6 +24,8 @@
 
  
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=berkayberatsonmez&show_icons=true&theme=github_dark)
+   <br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fmamus&show_icons=true&locale=en&layout=compact" alt="fmamus" /></p>
 
  
