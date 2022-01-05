@@ -1,0 +1,3 @@
+- 🔭 I’m currently working on a new project.
+- 🌱 I’m currently learning Python,Java, Machine learning
+- 📫 How to reach me: berkayberatsonmez@gmail.com or you can look my social media.
