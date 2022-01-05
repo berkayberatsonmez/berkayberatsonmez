@@ -3,4 +3,4 @@
 - 📫 How to reach me: berkayberatsonmez@gmail.com or you can look my social media.
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=berkayberatsonmez&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=berkayberatsonmez&show_icons=true&theme=github_dark)
