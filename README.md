@@ -27,5 +27,5 @@
    <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berkayberatsonmez&show_icons=true&locale=en&layout=compact" alt="BBS" /></p>
-
+&nbsp
 ![snake gif](https://github.com/berkayberatsonmez/berkayberatsonmez/blob/output/github-contribution-grid-snake.gif)
