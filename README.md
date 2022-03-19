@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaykadamli&label=Profile%20views&color=0e75b6&style=flat" alt="berkaykadamli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaykadamli&label=Profile%20views&color=0e75b6&style=flat" alt="berkayberatsonmez" /> </p>
 
 - 🔭 I usually work on my own projects.
 - 🌱 I’m currently learning Python, Java, Machine learning
