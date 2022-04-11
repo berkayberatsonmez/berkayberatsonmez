@@ -19,7 +19,7 @@
 ✨&nbsp;&nbsp;About&nbsp;Me
   <br/>
  
- As long as I can remember myself, I have always been interested in technology. Being intertwined with computers for many years, thinking about how all those lines of code work, how all these processes happen, made me more curious. With this sense of curiosity and learning, I chose this department and the more I learned, the more I liked it, the more I wondered. I am very enthusiastic about doing new studies in this field and improving myself. I am open to work.
+ I know myself, I have always been interested in technology. Being intertwined with computers for many years, thinking about how all those lines of code work, how all these processes happen, made me more curious on this subject. With this sense of curiosity and learning, I chose this department and the more I learned, the more I liked it, the more I wondered. I am very enthusiastic about doing new studies in this field and improving myself. I am open to work.
 
  
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=berkayberatsonmez&show_icons=true&theme=github_dark)
