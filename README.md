@@ -31,3 +31,5 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkayberatsonmez-y" alt="BBS-y" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=berkayberatsonmez-ma)](https://github.com/ryo-ma/github-profile-trophy)
