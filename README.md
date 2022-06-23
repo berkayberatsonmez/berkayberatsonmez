@@ -34,4 +34,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=berkayberatsonmez-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=berkayberatsonmez-ma&theme=onedark">
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=berkayberatsonmez-ma&theme=onedark"></a></p>
