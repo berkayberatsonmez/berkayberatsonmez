@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I usually work on my own projects.
-- 🌱 I’m currently learning Python, Java, Machine learning
+- 🔭 I usually work on my projects.
+- 🌱 I’m currently learning Python, Java, and Machine learning
 - 📫 How to reach me: berkayberatsonmez@gmail.com or you can reach me through my social media accounts.
  
  🔗 **Connect with me**
