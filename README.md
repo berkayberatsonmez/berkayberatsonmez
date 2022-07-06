@@ -3,7 +3,7 @@
 
 
 - 🔭 I usually work on my projects.
-- 🌱 I’m currently learning Python, Java, and Machine learning
+- 🌱 I’m currently learning Python, Machine learning, and Data Science
 - 📫 How to reach me: berkayberatsonmez@gmail.com or you can reach me through my social media accounts.
  
  🔗 **Connect with me**
