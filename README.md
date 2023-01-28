@@ -20,7 +20,7 @@
 ✨&nbsp;&nbsp;About&nbsp;Me
   <br/>
  
- I have always been interested in technology. I have been intertwined with computers for many years and thinking about how all those lines of code work, and how all these processes happen, made me more curious about this subject. With this sense of curiosity and learning, I chose this department and the more I learned, the more I liked it, and the more I wondered. I am enthusiastic about doing new studies in this field and improving myself. I usually work on my projects. I’m currently learning Python, Machine Learning, and Data Science. I am open to work.
+ I have always been interested in technology. I have been intertwined with computers for many years and thinking about how all those lines of code work, and how all these processes happen, made me more curious about this subject. With this sense of curiosity and learning, I chose this department and the more I learned, the more I liked it, and the more I wondered. I am enthusiastic about doing new studies in this field and improving myself. I usually work on my projects. I’m currently learning Python, Machine Learning, Data Science, and Artificial Intelligence.I am a self-improving and knowledge-hungry person. I am open to work and internship.
 
  
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=berkayberatsonmez&show_icons=true&theme=github_dark)
