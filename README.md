@@ -39,3 +39,5 @@
 [![](https://visitcount.itsvg.in/api?id=berkayberatsonmez&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/berkayberatsonmez/berkayberatsonmez/blob/output/github-contribution-grid-snake.gif)
