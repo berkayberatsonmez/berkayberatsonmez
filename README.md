@@ -2,14 +2,14 @@
 
 
 
-- 🔭 I usually work on my projects.
+- 🔭 I am actively working on various projects.
 - 🌱 I’m currently working on .Net, C#, HTML, CSS, TypeScript, JavaScript
 - 📫 How to reach me: berkayberatsonmez@gmail.com or you can reach me through my social media accounts.
  
 ✨&nbsp;&nbsp;About&nbsp;Me
   <br/>
  
- I have always been interested in technology. I have been intertwined with computers for many years and thinking about how all those lines of code work, and how all these processes happen, made me more curious about this subject. With this sense of curiosity and learning, I chose this department and the more I learned, the more I liked it, and the more I wondered. I am enthusiastic about doing new studies in this field and improving myself. I usually work on my projects.  I’m currently working on .Net, C#, HTML, CSS, TypeScript, JavaScript.I am a self-improving and knowledge-hungry person. I am open to work.
+ I have always been interested in technology. I have been intertwined with computers for many years and thinking about how all those lines of code work, and how all these processes happen, made me more curious about this subject. With this sense of curiosity and learning, I chose this department and the more I learned, the more I liked it, and the more I wondered. I am enthusiastic about doing new studies in this field and improving myself. I am actively working on various projects.  I’m currently working on .Net, C#, HTML, CSS, TypeScript, JavaScript.I am a self-improving and knowledge-hungry person. I am open to new opportunities.
 
 
 # 📊 GitHub Stats:
@@ -32,7 +32,7 @@
  
  🔗 **Connect with me**
 
-
+LinkedIn Profile:
 <a href="https://linkedin.com/in/berkay-berat-sönmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 ---
 [![](https://visitcount.itsvg.in/api?id=berkayberatsonmez&icon=6&color=3)](https://visitcount.itsvg.in)
